@@ -5,7 +5,7 @@ A simple widget to show the ip of an interface in awesome window manager wibar
 
 ![Screenshot](https://github.com/rubenhortas/awesome-ip-widget/blob/main/awesome-ip-widget-screenshot.jpeg)
 
-## Installation
+## Installation and configuration
 
 Clone the repo under your widgets folder: 
   - If you are using a custom theme: ~/.config/awesome/widgets/
