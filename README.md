@@ -36,3 +36,11 @@ s.mytasklist, -- Middle widget
 ```
 
 Restart awesome ;)
+
+## Troubleshooting
+
+In case of any problem create an [issue](https://github.com/rubenhortas/awesome-ip-widget/issues/new)
+
+## Support
+
+If you find this widget useful you can star this repo.
