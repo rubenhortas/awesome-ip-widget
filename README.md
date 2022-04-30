@@ -31,4 +31,4 @@ Edit _ip.lua_ and set your interface name
 local interface = "enp0s3"
 ```
 
-Restart awesomewm ;)
+Restart awesome ;)
