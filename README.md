@@ -9,7 +9,7 @@ A simple widget to show the ip of an interface in awesome window manager wibar
 
 Clone the repo under your widgets folder: 
   - If you are using a custom theme: ~/.config/awesome/widgets/
-  - If you are using a default theme: /usr/share/awesome/lib/
+  - If you are using a default theme: /usr/share/awesome/lib/ (requires root privileges)
 
 Edit _awesome-ip-widget/ip.lua_ and set your interface name
 
@@ -20,7 +20,7 @@ local interface = "enp0s3"
 
 Edit your _lua.rc_ file and add the following
   - If you are using a custom theme: ~/.config/awesome/rc.lua
-  - If you are using a default theme: /usr/share/awesome/themes/_yourSelectedThemeName_/lua.rc
+  - If you are using a default theme: /etc/xdg/awesome/lua.rc (requires root privileges)
 
 ```lua
 local ip_widget = require("awesome-ip-widget.ip")
