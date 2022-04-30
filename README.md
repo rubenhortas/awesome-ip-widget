@@ -14,7 +14,7 @@ Clone the repo under your widgets folder:
 Edit _awesome-ip-widget/ip.lua_ and set your interface name
 
 ```lua
-local interface = "enp0s3"
+local interface = "enp0s3" --Change enp0s3 for your interface name
 ```
 
 
