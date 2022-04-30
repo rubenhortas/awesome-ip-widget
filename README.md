@@ -23,3 +23,12 @@ s.mytasklist, -- Middle widget
 	...
 },
 ```
+## Configuration
+
+Edit _ip.lua_ and set your interface name
+
+```lua
+local interface = "enp0s3"
+```
+
+Restart awesomewm ;)
