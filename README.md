@@ -1,5 +1,5 @@
 # ip widget
-A simple widget to show the IP of an interface in awesome window manager wibar
+A simple widget to show the IP of an interface in awesome window manager wibar.
 
 ## Screenshots
 
