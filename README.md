@@ -5,11 +5,11 @@ A simple widget to show the IP of an interface in the awesome window manager wib
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rubenhortas/awesome-ip-widget)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rubenhortas/awesome-ip-widget)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/rubenhortas/awesome-ip-widget)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rubenhortas/awesome-ip-widget)
+![GitHub issues](https://img.shields.io/github/issues-raw/rubenhortas/awesome-ip-widget?color=red&logo=github)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rubenhortas/awesome-ip-widget?logo=github)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/rubenhortas/awesome-ip-widget)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/rubenhortas/awesome-ip-widget)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/rubenhortas/awesome-ip-widget?color=red&logo=github)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/rubenhortas/awesome-ip-widget?logo=github)
 
 ![GitHub](https://img.shields.io/github/license/rubenhortas/awesome-ip-widget)
 
