@@ -7,7 +7,6 @@ A simple widget to show the IP of an interface in the awesome window manager wib
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/rubenhortas/awesome-ip-widget?color=red&logo=github)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rubenhortas/awesome-ip-widget?logo=github)
-
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/rubenhortas/awesome-ip-widget?color=red&logo=github)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/rubenhortas/awesome-ip-widget?logo=github)
 
