@@ -10,7 +10,7 @@ local interface = "enp0s3" -- Set the interface name here
 local ip_widget_font = beautiful.font -- Set the font here (family, name, size...) e.g. "sans 12"
 local ip_widget_fg_color = "#ffffff"
 
-local command = string.format("ip addr show %s | grep -oE '([[:digit:]]{1,3}\.){3}[[:digit:]]{1,3}/' | cut -d'/' -f1", interface)
+local command = string.format("ip addr show %s | grep -oE '([[:digit:]]{1,3}.){3}[[:digit:]]{1,3}/' | cut -d'/' -f1", interface)
 
 -- Create the text widget
 local ip_widget = wibox.widget{
