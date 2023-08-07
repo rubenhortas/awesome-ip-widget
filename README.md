@@ -29,9 +29,9 @@ local interface = "enp0s3" --Change enp0s3 for your interface name
 ```
 
 
-Edit your _lua.rc_ file and add the following
+Edit your _rc.lua_ file and add the following
   - If you are using a custom theme: ~/.config/awesome/rc.lua
-  - If you are using a default theme: /etc/xdg/awesome/lua.rc (requires root privileges)
+  - If you are using a default theme: /etc/xdg/awesome/rc.lua (requires root privileges)
 
 ```lua
 local ip_widget = require("awesome-ip-widget.ip")
