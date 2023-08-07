@@ -34,7 +34,7 @@ Edit your _rc.lua_ file and add the following
   - If you are using a default theme: /etc/xdg/awesome/rc.lua (requires root privileges)
 
 ```lua
-local ip_widget = require("awesome-ip-widget.ip")
+local ip_widget = require("widgets.awesome-ip-widget.ip")
 
 ...
 s.mytasklist, -- Middle widget
