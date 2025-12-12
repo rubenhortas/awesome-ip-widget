@@ -1,7 +1,6 @@
 # ip widget
 A simple widget to show the IP of an interface in the awesomewm window manager wibar.
 
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/rubenhortas/awesome-ip-widget)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rubenhortas/awesome-ip-widget)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rubenhortas/awesome-ip-widget)
 
